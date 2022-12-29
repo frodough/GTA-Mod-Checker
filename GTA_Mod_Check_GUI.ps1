@@ -95,6 +95,7 @@ steam_appid.ini
 uninstall.exe
 update
 version.ini
+version.txt
 x64
 x64a.rpf
 x64b.rpf
